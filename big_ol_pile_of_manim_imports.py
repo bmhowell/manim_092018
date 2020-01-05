@@ -95,7 +95,6 @@ from utils.sounds import *
 from utils.space_ops import *
 from utils.strings import *
 
-from joojoo_animation import*
 
 # Non manim libraries that are also nice to have without thinking
 
